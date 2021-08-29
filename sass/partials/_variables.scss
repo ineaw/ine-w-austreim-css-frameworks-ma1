@@ -1,0 +1,26 @@
+$primary: #c32c72;
+$secondary: #f4f3ee;
+$dark: #6a6a6a;
+$white: #ffffff;
+$grey: #e5e5e5;
+$dark-grey: #6a6a6a;
+$nav-icon: #262626;
+$nav-link: #463f3a;
+$light-grey: #8d8d8d;
+
+.card {
+  border: none;
+}
+.card__item--pink {
+  background-color: $primary;
+  border: 2px solid $white;
+}
+
+.card__item--borderpink {
+  border: 2px solid $primary;
+  background-color: $white;
+}
+
+.card__item {
+  background: $secondary;
+}

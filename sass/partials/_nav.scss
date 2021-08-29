@@ -1,0 +1,20 @@
+nav {
+  background: $secondary;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  color: $nav-icon;
+}
+
+a#active {
+  color: $primary;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.nav-link {
+  color: $nav-link;
+}
